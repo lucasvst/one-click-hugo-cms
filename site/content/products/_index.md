@@ -97,8 +97,6 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
----
-
 title: Nosso Cafe
 type: products
 image: /img/products-jumbotron.jpg
@@ -197,3 +195,4 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+---
